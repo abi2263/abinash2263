@@ -1,16 +1,19 @@
-### Hi! I'm Abinash 
+### Hi ! I'm Abinash 
 
-<!--
-**abinash2263/abinash2263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <h1 align="center">Hi!, I'm Abinash R </h1>
+ <h3 align="center">Student</h3>
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abinash2263&style=flat-square&color=brightgreen">
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center"><a href="mailto:abinashraja4364@gmail.com"> Email </a> | <a href="https://abinash2263.github.io">Website</a></h4>
+
+<hr>
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=srilakshmikanthanp&theme=onedark"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmikanthanp&theme=onedark&layout=compact&langs_count=10"/>
+</a></p>
